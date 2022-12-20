@@ -14,7 +14,7 @@ int main()
 		num2 = rand()%20;
 		help = rand()%4;
 		
-		/*if(help ==0)
+		if(help ==0)
 		{
 			word = '+';
 			ans2 = num1 + num2;
@@ -42,12 +42,12 @@ int main()
 		if(ans == ans2)
 		{
 			printf("Correct!\n");
-			++check;
+			//++check;
 		}
 		else
 		{
 			printf("Wrong! Answer is %d\n",ans2);
-		}*/
+		}
 		
 
 	}
