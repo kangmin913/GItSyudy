@@ -14,7 +14,7 @@ int main()
 		num2 = rand()%20;
 		help = rand()%4;
 		
-		if(help ==0)
+		/*if(help ==0)
 		{
 			word = '+';
 			ans2 = num1 + num2;
@@ -47,7 +47,7 @@ int main()
 		else
 		{
 			printf("Wrong! Answer is %d\n",ans2);
-		}
+		}*/
 		
 
 	}
