@@ -42,7 +42,7 @@ int main()
 		if(ans == ans2)
 		{
 			printf("Correct!\n");
-			//++check;
+			++check;
 		}
 		else
 		{
